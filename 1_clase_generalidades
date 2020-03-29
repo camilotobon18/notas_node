@@ -1,0 +1,39 @@
+descargar nvm gestor de versiones de node js
+Node js
+no es un servidor, es un aplicativo para correr js desde el servidor
+motor v8 de google chrome, escrito en C++
+investigar sobre las capas, aplicaciones non real-time, aplicaciones real-time (chats, video, dashboard)
+mirar que tipo de aplicacion queremos construir
+
+salirnos del cli, comand line interface
+.exit
+node index.js
+
+mientras mas especializadas esten las funciones, es mejor
+funcion para retornar el resultado y otra para imprimirlo
+
+Patrones de diseño
+solid
+TDD
+DDD
+CI/DC
+
+mkdir exampleonenpm && cd exampleonenpm
+
+abre el code dentro de la carpeta que estamos
+code . 
+
+inicializar proyecto en la carpeta
+npm init
+
+al darle enter toma el valor por defecto
+nombre de paquete
+version: consultar manejo de versiones
+descripcion: se define
+entry point: por defecto el index.js
+test command: consultar desarrollo basado en pruebas
+git repository
+
+dependencia de node
+npm install cowsay
+npm run funcion

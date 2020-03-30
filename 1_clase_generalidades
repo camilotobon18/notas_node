@@ -5,8 +5,10 @@ motor v8 de google chrome, escrito en C++
 investigar sobre las capas, aplicaciones non real-time, aplicaciones real-time (chats, video, dashboard)
 mirar que tipo de aplicacion queremos construir
 
+npm install -g node-modules
 salirnos del cli, comand line interface
 .exit
+REPL //Linea de comandos de node
 node index.js
 
 mientras mas especializadas esten las funciones, es mejor
